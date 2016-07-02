@@ -5,13 +5,12 @@ date:   2016-06-29 09:37:36 -0700
 categories: vr
 ---
 
-Virtual reality is an old concept in tech time. It dates back from the 1950's to
-[Morton Heilig][heilig], who wrote about and invented the [Sensorama][sensorama]
+Virtual reality is a relatively old concept when measured in tech time. It
+dates back to [Morton Heilig][heilig], who wrote about and invented the [Sensorama][sensorama]
 in 1962. But the form that we recognize today as VR was developed by
 Ivan Sutherland in 1968, with a [head mounted display][sword-of-damocles].
 Still, it was limited by the technology at the time, but if you squint enough,
-you can see their vision of being immersed not just somewhere else, but a place
-not of this world.
+you can see their vision of being immersed somewhere else.
 
 The idea of being in an alternate reality lends itself to lots of narrative
 possibilities. You can be anywhere else at any time, even if it's not somewhere
@@ -20,41 +19,27 @@ not had always been an area of ripe exploration for story tellers from
 [Zhangzi's butterfly dreams][butterfly-dream] to
 [Neal Stephenson's Snow Crash][snow-crash].
 
-Though VR really captures deep human desires and imagination, there are realistic
-physical and technological constraints put on any industry or platform. In addition,
-all mediums have an innate characteristic that needs to be experienced to be
-understood. That means what we imagine VR to be great for would misalign with
-current and near term future realities without a good understanding of its limitations.
-But even more importantly, is to understand its unique strengths that are barely
-peeking out behind the veil of limitations.
+Though VR triggers deep human desires and captures the imagination, there are
+physical and technological constraints. Understanding its limitations gives us
+a more realistic assessment of its near term possibilities.
 
-## Limitations of virtual reality
+But if we only look at near term limitations, we'd just be cynics and blinded from
+its potential. Hence, it's important to understand its unique strengths as a
+medium peeking out behind the veil of limitations.
+
+## Limitations
 
 What are the limits of virtual reality, and how should that inform us what it's
-good for? When considering this, we should be aware of which limitation results
-from current technological and cultural limitations, and which are limitations
-of the nature of the medium itself.
+good for?
 
-Limitations of the former category are easier to spot, because the test for it
-is easier to run. Take the diff between our imagination and what's currently
-possible (or even what's acceptable), and that gap should should us the magnitude
-of the limitation.
-
-### Nausea
+### Nausea and movement
 
 When a user moves in VR with their head and their body, the view changes. That's
 what makes the experience immersive. However, if they're on a moving platform,
-but their bodies don't feel the acceleration, that can induce nausea.
-
-Our bodies are fine-tuned for the world we live in, though eons of evolution. Usually,
-when there's a mismatch between what we see and what we feel, we believe we've
-been poisoned, so that's why our bodies react the way it does.
-
-The cardinal rule of VR is that you never move the camera for the player.
+but their bodies don't feel the acceleration, that can induce nausea. Hence,
+the cardinal rule of VR is to never move the camera for the player.
 That also means a fundamental limitation of VR is that any immersive experience
 has to deal with the confines of the physical space in the real world.
-
-### Movement
 
 The best experiences in VR so far takes the physical limitation into the mechanics
 of the game. In Job Simulator 2050, the in-game jobs are ones where you're usually only
@@ -71,6 +56,21 @@ space in the home, a movement platform might be considered an plausible buy.
 It takes up the same amount of space as an exercise bike, and it lowers the
 space requirements for movement in VR.
 
+### Hardware limitations
+
+VR requires large bandwidth requirements. Not only does the environment need to
+run at 90 fps, but the resolution of the screens needs to increase. Currently,
+the screens resolution is at 2K, which results in a screen door effect that
+makes text difficult to read. Currently, it's hard to do any keyboard based
+work in VR for this reason.
+
+The Head Mounted Display is still a little too heavy for prolonged use. Though
+the Oculus may be more comfortable, the current head set is still a little too
+heavy for prolonged or very active use. And the current price for VR systems is
+fairly pricy at $900. These aspects will slow adoptions,
+but we should expect the price of components to follow the same price to power
+trajectory of electronics in the past.
+
 ## Strengths
 
 Given its limitations, what are the surprising strengths of VR? What can you do
@@ -78,20 +78,24 @@ in VR that you can't do in any other medium?
 
 ### Immersion
 
-VR is surprisingly immersive. When there's a table, and there's an object you
-want to grab on the other side, you'll find yourself leaning over the table.
-It's uncomfortable when you're inside someone or something, so you'll naturally
-move out of it.
+VR is surprisingly immersive, but it's a different kind of immersion than the
+way good books are movies are immersive. Because our primary senses of sight and
+sound are fooled, we feel like we're actually somewhere else. We go from being
+passive observers to actually experiencing being somewhere.
+
+It's also a way to delight, because now magic is possible. The magic of being
+able to paint in space, and have brush-strokes that animate just delights people.
 
 ### Emotion Amplification
 
 Because VR is immersive, it is also an emotion amplifier. I experienced this when
 I was in the Steam Labs. I was being taught how to use the buttons, and when I
 pushed the button, the tool shot confetti in the air. I was not only surprised,
-but also delighted. And then I was curious at how delighted I was.
+but also delighted. And then I was curious at how delighted I was, as I kept
+shooting confetti in the air.
 
-Another friend, Ryan, related to me that when he was at a beach, he could feel
-his heart rate go down, because he was at the beach the whole time.
+Another friend told me when he was on a beach in VR, he felt his heart rate go
+down because of how immersive it was.
 
 ### Presence
 
@@ -99,8 +103,22 @@ It doesn't take a lot of representation to feel like someone else is there. You
 don't need a body or legs. You don't need facial expressions. Turns out, you just
 need a head and hands with low-latency tracking, and reliable directional audio.
 
+That's actually enough to feel that another person is actually there.
 
+### Intuitive interface
 
+In VR, there's no mapping between the motion you do in the real world, with
+what's happening in the digital world. For the majority of people I've seen use
+VR, they grasped it immediately.
+
+### Spatial reasoning
+
+Users in VR can now use the spatial reasoning to see things in 3D.
+
+## Conclusion
+
+The best sort of applications for VR right now are gaming and interactive
+environments where users can experience social interactions or magic.
 
 
 [heilig]: http://www.mortonheilig.com/InventorVR.html
