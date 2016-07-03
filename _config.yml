@@ -12,8 +12,8 @@ description: > # this means to ignore newlines until "baseurl:"
   VR experiments with different mechanics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iamwilhelm.github.io/blog.sidehelm.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: iamwil
+github_username:  iamwilhelm
 
 # Build settings
 markdown: kramdown
