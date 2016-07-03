@@ -15,7 +15,13 @@ both on youtube, and unity's site itself. The short demo was a bit involved.
 - Use trigger colliders to keep track of a score and shoot confetti.
 - Used a particle system to shoot confetti.
 
-{% youtube GQAFp4_P6bM %}
+### Video
+
+Click the thumbnail below to view a video of the demo:
+
+[![Table top VR demo 1](http://img.youtube.com/vi/GQAFp4_P6bM/0.jpg)](http://www.youtube.com/watch?v=GQAFp4_P6bM "Table Top VR demo 1")
+
+### The experience
 
 The toughest part of the entire exercise was handling the hand interaction. It's
 actually somewhat involved, to take into account weird edge cases. There were
