@@ -46,6 +46,9 @@ easy to configure and play around with in real time, it actually took a while
 for me to get it to look right. That's probably why the asset store has particle
 systems for people to use, instead of configuring it all on your own.
 
+The source code is at [https://github.com/iamwilhelm/table_top_demo][table-top-demo-repo].
 [Follow me on twitter](https://twitter.com/iamwil). If you have suggestions as
 to other demos or exercises to do build next, [tweet at me](https://twitter.com/intent/tweet?text=@iamwil%20)
 or send me an email (address in footer).
+
+[table-top-demo-repo]: https://github.com/iamwilhelm/table_top_demo
