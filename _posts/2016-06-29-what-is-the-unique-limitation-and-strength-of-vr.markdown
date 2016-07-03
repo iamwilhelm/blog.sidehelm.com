@@ -2,7 +2,7 @@
 layout: post
 title:  "What is the unique limitation and strength of VR?"
 date:   2016-06-29 09:37:36 -0700
-categories: vr
+categories: essay
 ---
 
 Virtual reality is a relatively old concept when measured in tech time. It
