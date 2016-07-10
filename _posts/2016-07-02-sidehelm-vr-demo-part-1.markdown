@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Table Top VR Demo Part 1"
-date:   2016-06-29 09:37:36 -0700
+title:  "Sidehelm VR Demo Part 1"
+date:   2016-07-02 09:37:36 -0700
 categories: demo
 ---
 
