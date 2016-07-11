@@ -81,6 +81,15 @@ the forward direction to angle down a little. But I didn't do it this time.
 With stupefy and accio, it's also an impulsive force also, but it's directed
 in a forward and back direction.
 
+#### Wingardium Levioso
+
+Levitation is actually pretty tough to get right. I implemented a repulsive force
+between the ground and the object, inversely related to distance squared. However,
+you need to cap the distance, because if an object is sitting on the ground, the
+force is infinite. I decided to cut the scope, so I can move on to the next
+demo. But if I were to make more inroads into this demo, I'd make more spells
+of this nature.
+
 ### Different purposes
 
 People didn't find stupefy nearly as useful as incendio, because they seem to
