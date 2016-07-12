@@ -17,3 +17,4 @@ github_username:  iamwilhelm
 
 # Build settings
 markdown: kramdown
+env: production
