@@ -76,7 +76,9 @@ I'm starting to understand what Palmer Luckey is saying, that
 [VR is fundamentally a communications device][vr-communications]. Storytelling
 has always been baked into how we human relate to the world, and it's not going
 to change between the different mediums. The difference will be how we're able
-to tell stories.
+to tell stories. From [Kurt Vonnegut's story curves][six-main-arcs] to
+[Pixar's storytelling nuggest][pixar-story-rules], it may be prudent to learn how to tell stories,
+even as a technologist and product designer for VR.
 
 
 [pokemon]: http://www.pokemon.com/us/
@@ -86,3 +88,5 @@ to tell stories.
 [ingress]: https://www.ingress.com/
 [pokemon-hype-check]: https://techcrunch.com/2016/07/09/pokemon-go-ar-hype-check/
 [vr-communications]: http://www.techradar.com/us/news/world-of-tech/oculus-ceo-on-vr-it-can-fundamentally-change-communication--1237133
+[six-main-arcs]: www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733/
+[pixar-story-rules]: http://www.pixartouchbook.com/blog/2011/5/15/pixar-story-rules-one-version.html
