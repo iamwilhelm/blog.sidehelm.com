@@ -5,7 +5,7 @@ date:   2016-07-26 10:00:00 -0700
 categories: demo
 ---
 
-![Multitude Screenshot](/assets/images/multitude_screenshot.png)
+![Multitude Screenshot][multitude-screenshot]
 
 One guiding light I have about VR is that it immerses you completely in a world
 of your own choosing. You could choose another time, or another place, but
@@ -28,12 +28,27 @@ lets us partake in that type of magic with inspiration from the late Harold
 Ramis's movies, [Groundhog Day][groundhog-day] and the flash game
 [Cursor * 10][cursor*10].
 
-![Multitude Title](/assets/images/multitude_title.png)
+![Multitude Title][multitude-title]
 
 The working title is "Multitude" right now (subject to change). The story is
 that a King dropped his coins on the way back to his castle, and it's up to
 you to pick up after him. I think there's a larger underpinning and story
 to such a concept. But for now, it's in keeping with the assets I used.
+
+The gameplay is where you collect coins and solve puzzles as you teleport
+from level to level. At the end of a minute, you start all over again with
+the next clone, while all the previous clones that played will play out at
+the same time.
+
+That results in an odd gameplay mechanic, where you can cooperate with
+yourself. You can toss things to your future clone, or you can divide up the
+work of collecting coins. You have to choose between going fast, or being
+meticulous.
+
+It's a little trippy to see yourself move around, but it's one of the magical
+things that VR allows us to do.
+
+### Lessons
 
 I learned a couple things these two weeks. Some technical, and some in design.
 This piece of code had more moving parts than previous demos.
@@ -100,3 +115,5 @@ or send me an email (address in footer).
 [groundhog-day]: http://www.rogerebert.com/reviews/great-movie-groundhog-day-1993
 [cursor*10]: http://jayisgames.com/games/cursor-10/
 [demo-2]: https://iamwilhelm.github.io/blog.sidehelm.com/demo/2016/07/10/sidehelm-vr-demo-part-2.html
+[multitude-screenshot]: {{site.url}}/assets/images/multitude_screenshot.jpg
+[multitude-title]: {{site.url}}/assets/images/multitude_title.jpg
