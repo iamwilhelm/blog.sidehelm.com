@@ -103,7 +103,7 @@ I swing back to it.
 
 Click the thumbnail below to view a screencast of the demo:
 
-[![Sidehelm VR demo 3](https://img.youtube.com/vi/asdf/0.jpg)](https://www.youtube.com/watch?v=asdf "Sidehelm VR demo 3")
+[![Sidehelm VR demo 3](https://img.youtube.com/vi/_eoMTN509P8/0.jpg)](https://www.youtube.com/watch?v=_eoMTN509P8 "Sidehelm VR demo 3")
 
 ### Source
 
