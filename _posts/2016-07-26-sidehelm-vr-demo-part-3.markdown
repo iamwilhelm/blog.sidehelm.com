@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sidehelm VR Demo Part 3"
+title:  "VR Demo: Live the same minute through ten lives"
 date:   2016-07-26 10:00:00 -0700
 categories: demo
 ---
